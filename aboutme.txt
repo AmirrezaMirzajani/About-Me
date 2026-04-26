@@ -1,0 +1,25 @@
+# 👋 Hi there
+
+## 🎓 About Me
+M.Sc. student in Mechanical Engineering (Dynamics, Vibrations & Control) at the University of Tabriz.  
+Interested in the intersection of intelligent systems and engineering.
+
+## 🔬 Research Interests
+- Neural Networks & Machine Learning  
+- Deep Learning  
+- Control Systems & Dynamical Systems  
+- Robotics & Autonomous Systems  
+- Automotive Engineering  
+- HVAC Systems  
+
+## 💻 Technical Skills
+- **Programming Languages:** C, C++, Python, MATLAB, Maple, Go, Bash  
+- **Tools & Frameworks:** Linux, TensorFlow, Git  
+- **Domains:** Modeling & Simulation, System Identification, Network Fundamentals  
+
+## 🚀 Current Status
+- Freelance Engineer  
+- Actively seeking PhD opportunities  
+
+## 📫 Contact
+- Email: Amirrezamirzajani1@gmail.com
